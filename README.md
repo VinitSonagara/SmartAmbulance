@@ -1,6 +1,4 @@
 # SmartAmbulance
-This is made by our group which includes
-Annirudh Pandey and me.
-Smart Ambulance System Code Using ArduinoMega 2560.
-It is for one way direction only.
-Here fourth light which can be of any colour is added to the existing system.So when ambulance is nearby any of the signals fourth light will turn on and public can understand that ambulance is going to pass in few munutes.So they can make there way for the ambulance.
+This is made by Vinit Sonagara(myself) and Anirudh Pandey.
+Smart Ambulance System Using ArduinoMega 2560 and RFID sensors.
+The main idea here is to add fourth light which can be of any colour to the existing system.So when ambulance passes one signal the fourth light will be on at the next signal so the nearby people can understand that the ambulance is going to come in few minutes.

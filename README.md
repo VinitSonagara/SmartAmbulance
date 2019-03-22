@@ -1,4 +1,14 @@
 # SmartAmbulance
-This is made by Vinit Sonagara(myself) and Anirudh Pandey.
-Smart Ambulance System Using ArduinoMega 2560 and RFID sensors.
-The main idea here is to add fourth light which can be of any colour to the existing system.So when ambulance passes one signal the fourth light will be on at the next signal so the nearby people can understand that the ambulance is going to come in few minutes.
+Smart Ambulance is a project which alarms the people near signal that ambulance is nearby and to make way for it so that ambulance can reach hosiptal in as less time as possible.The people comes to know about the ambulance by seeing the fourth light on the traffic signal which we have added.
+
+The repo contains the code of traffic signal with fourth light added.The fourth light will be turned on and off with the help of RFID sensor.
+
+Prequisites - Arduino IDE.
+
+Built With - Arduino Mega 2560, Arduino IDE, RFID sensor.
+
+Author - Vinit Sonagara, Anirudh Pandey.
+
+License - This is an open source project.
+
+
